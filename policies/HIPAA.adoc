@@ -1,0 +1,14 @@
+= HIPAA Policy
+:author: Bedrock Health Group
+:revnumber: 1.0
+
+== Purpose
+Define HIPAA compliance requirements for Bedrock Health Group.
+
+== Scope
+All employees, contractors, and affiliated partners.
+
+== Policy
+* Maintain PHI confidentiality
+* Apply technical safeguards
+* Conduct audits annually
