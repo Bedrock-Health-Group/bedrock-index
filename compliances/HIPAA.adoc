@@ -55,3 +55,16 @@ Violations of this policy may result in disciplinary action, up to and including
 == Review Cycle
 
 This policy will be reviewed and updated annually or as required by regulatory changes
+
+[cols="1,2,3", options="header"]
+|===
+| Policy | Owner | Last Reviewed
+
+| HIPAA
+| Compliance Officer
+| 2026-01-12
+
+| GDPR
+| Data Protection Lead
+| 2026-01-10
+|===
