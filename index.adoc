@@ -1,5 +1,0 @@
-= Bedrock Health Group Compliance Index
-:author: Bedrock Health Group
-
-== Policies
-* link:policies/HIPAA.adoc[HIPAA]
