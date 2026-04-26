@@ -1,0 +1,37 @@
+site_name: Bedrock Index
+site_description: Public provider, compliance, credentialing, billing, and policy resource library for Bedrock Health Group
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Policy Library:
+      - Policy Index: policy-index.md
+      - How to Use This Library: policy-library-guide.md
+      - Policy Lifecycle: policy-lifecycle.md
+  - Governance:
+      - Overview: governance/index.md
+      - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
+  - Privacy & Security:
+      - Overview: privacy-security/index.md
+      - Privacy Policy: privacy-security/privacy-policy.md
+      - Cookies Policy: privacy-security/cookies-policy.md
+
+extra_css:
+  - assets/custom.css
+
+extra:
+  generator: false
+  homepage: https://www.bedrockhealthgroup.org
