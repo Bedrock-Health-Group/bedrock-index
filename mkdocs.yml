@@ -10,7 +10,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
@@ -18,22 +17,22 @@ theme:
 nav:
   - Home: index.md
   - Start Here: start-here/index.md
-  - Provider Readiness: provider-readiness/index.md
-  - Credentialing & Enrollment: credentialing-enrollment/index.md
-  - Medicare & Medicaid: medicare-medicaid/index.md
-  - Billing & Revenue Cycle: billing-revenue-cycle/index.md
-  - Compliance Readiness: compliance-readiness/index.md
-  - Resource Library:
-      - Overview: resource-library/index.md
+  - Provider Resources:
+      - Provider Readiness: provider-readiness/index.md
+      - Credentialing & Enrollment: credentialing-enrollment/index.md
+      - Medicare & Medicaid: medicare-medicaid/index.md
+      - Billing & Revenue Cycle: billing-revenue-cycle/index.md
+  - Compliance Index:
+      - Compliance Readiness: compliance-readiness/index.md
+      - Resource Library: resource-library/index.md
       - Resource Page Template: templates/resource-page-template.md
-  - Policy Library:
-      - Policy Index: policy-index.md
-      - How to Use This Library: policy-library-guide.md
-      - Policy Lifecycle: policy-lifecycle.md
   - Governance:
       - Overview: governance/index.md
       - Conflict of Interest Policy: governance/conflict-of-interest-policy.md
-  - Privacy & Security:
+      - Policy Index: policy-index.md
+      - How to Use This Library: policy-library-guide.md
+      - Policy Lifecycle: policy-lifecycle.md
+  - Privacy:
       - Overview: privacy-security/index.md
       - Privacy Policy: privacy-security/privacy-policy.md
       - Cookies Policy: privacy-security/cookies-policy.md
